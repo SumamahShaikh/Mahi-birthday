@@ -14,7 +14,7 @@ function validate(){
     var username = document.getElementById("Username");
     var password = document.getElementById("password");
 
-    if(password.value == "M@@hii3490"){
+    if(password.value == "m@hii0943"){
         alert("Your Welcome ");
         window.location.replace("newpage.html");
         return false;
